@@ -29,7 +29,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL 5.5.62 (or latest version)
 
 <h2>Installation Steps</h2>
-
+<p>
+First, lets enable Internet Information Services (IIS) with Common Gateway Interface (CGI) in Windows.
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
