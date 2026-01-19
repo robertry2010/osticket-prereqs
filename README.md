@@ -40,14 +40,14 @@ In the same window, click on the "+" symbol next to "Internet Information Servic
 Please wait for Windows to apply the changes.
 </p>
 <p>
-<img src="https://media.discordapp.net/attachments/1390632590247067770/1462593932687966426/image.png?ex=696ec23f&is=696d70bf&hm=042d4dbd6bcf4c1f41f6f5d89ca65d4ece7211c00277b85193fb012724332951" height="80%" width="80%"/>
+<img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462593932687966426/image.png?ex=696ec23f&is=696d70bf&hm=042d4dbd6bcf4c1f41f6f5d89ca65d4ece7211c00277b85193fb012724332951" height="60%" width="60%"/> <img src= "https://cdn.discordapp.com/attachments/1390632590247067770/1462594399107285022/image.png?ex=696ec2ae&is=696d712e&hm=2edf8e51ca32424bf23c0de2b4f74875ccbb25d36785f78d617f434ba35eb354" height="38%" width="38%"/>
 </p>
 <p>
 Next we will start installing the list of prerequisites mentioned above.
 </p>
 <p>
 Let's start with the first two prerequisites, "PHP Manager for IIS" and "Rewrite Module". Install the software by double clicking on them and navigate through the installation process. </br>
-Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer, navigate to the C drive. Right-click inside the window, go down to "New" and select "Folder". Name that folder "PHP".
+Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer and navigate to the C drive. Right-click inside the window, go down to "New" and select "Folder". Name that folder "PHP".
 </p>
 <p>
 <img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462612343644098703/image.png?ex=696ed364&is=696d81e4&hm=ea2f553327adf5a93168098285d558643a6d9c4283c2d99f0e33d926309155fd" height="50%" width="50%"/>
