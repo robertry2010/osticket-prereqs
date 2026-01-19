@@ -31,20 +31,26 @@ During this tutorial I will be using specific sofware versions listed below unde
 
 <h2>Installation Steps</h2>
 <p>
-First, let's enable IIS with Common Gateway Interface (CGI) in Windows. </br>
+First, let's enable IIS with Common Gateway Interface (CGI) in Windows.
+</p>
+<p>
 Open the Control Panel (can be searched by typing in the search bar). Navigate to "Programs", then "Programs and Features", and click the text on the left side that says "Turn Windows features on or off". </br>
 Navigate by scrolling down and find a box that says "Internet Information Services". Click on the box so it's selected. </br>
-In the same window, click on the "+" symbol next to "Internet Information Services" and navigate to World Wide Web Services, then Application Development Features, and down to CGI. Click on CGI so it's selected.
+In the same window, click on the "+" symbol next to "Internet Information Services" and navigate to "World Wide Web Services", then "Application Development Features", and down to "CGI". Click on the box "CGI" so it's selected and click "OK". </br>
+Please wait for Windows to apply the changes.
 </p>
 <p>
-<img src="https://media.discordapp.net/attachments/1390632590247067770/1462593932687966426/image.png?ex=696ec23f&is=696d70bf&hm=042d4dbd6bcf4c1f41f6f5d89ca65d4ece7211c00277b85193fb012724332951&=&format=webp&quality=lossless" height="80%" width="80%"/>
+<img src="https://media.discordapp.net/attachments/1390632590247067770/1462593932687966426/image.png?ex=696ec23f&is=696d70bf&hm=042d4dbd6bcf4c1f41f6f5d89ca65d4ece7211c00277b85193fb012724332951" height="80%" width="80%"/>
 </p>
 <p>
-Now we will start installing the prerequisites for osTicket mentioned above. </br>
-
+Next we will start installing the list of prerequisites mentioned above.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+Let's start with the first two prerequisites, "PHP Manager for IIS" and "Rewrite Module". Install the software by double clicking on them and navigate through the installation process. </br>
+Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer and navigate to the C drive, then right-click and go down to "New" and select "Folder". Name that folder "PHP".
+</p>
+<p>
+<img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462612343644098703/image.png?ex=696ed364&is=696d81e4&hm=ea2f553327adf5a93168098285d558643a6d9c4283c2d99f0e33d926309155fd" height="80%" width="80%"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
