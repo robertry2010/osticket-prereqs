@@ -43,7 +43,7 @@ Open the Control Panel (can be searched by typing in the search bar). Navigate t
 Now we will start installing the list of prerequisites mentioned above.
 </p>
 <p>
-Let's start with the first two prerequisites, <u>PHP Manager for IIS</u> and <u>Rewrite Module</u>. Double-click on them and navigate through the installation process. A prompt will pop up saying "Do you want to allow this app to make changes to your device?". Select "Yes" (You may see this prompt mulitple times throughout this entire tutorial, be sure to always select "Yes" when they pop up, otherwise you will have issues).
+Let's start with the first two prerequisites, PHP Manager for IIS and Rewrite Module. Double-click on them and navigate through the installation process. A prompt will pop up saying "Do you want to allow this app to make changes to your device?". Select "Yes" (You may see this prompt mulitple times throughout this entire tutorial, be sure to always select "Yes" when they pop up, otherwise you will have issues).
 </p>
 <p>
 The next prerequisite PHP 7.3.8 (or latest version) is a ZIP file which needs to be extracted to the C: drive in a PFP folder (C:\PFP). To do this, navigate to the C: drive with File Explorer, right-click inside the window to show the options menu, then go down to "New" and select "Folder". Name that folder "PHP". The next prerequisite PHP 7.3.8 (or latest version) is a ZIP file which needs to be extracted to the PFP folder that was created. Simply right-click on the ZIP folder and select "Extract all". Change the destination where the files will be extracted to "C:\PHP" and click "Extract". Please wait for the extraction process to complete.
