@@ -3,8 +3,8 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system, osTicket.
-During this tutorial I will be using specific sofware versions listed below under "List of Prerequisites". Latest versions of the software can be used.
+In this tutorial I will demonstrate the installation process of the open-source help desk ticketing system, osTicket.
+During this tutorial I will be using specific prerequisite software versions listed below. Latest versions of the software can be used and is usually recommended.
 
 <h2>Video Demonstration</h2>
 
@@ -47,20 +47,37 @@ Next we will start installing the list of prerequisites mentioned above.
 </p>
 <p>
 Let's start with the first two prerequisites, "PHP Manager for IIS" and "Rewrite Module". Install the software by double clicking on them and navigate through the installation process. </br>
-Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer and navigate to the C drive, then right-click and go down to "New" and select "Folder". Name that folder "PHP".
+Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer, navigate to the C drive. Right-click inside the window, go down to "New" and select "Folder". Name that folder "PHP".
 </p>
 <p>
 <img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462612343644098703/image.png?ex=696ed364&is=696d81e4&hm=ea2f553327adf5a93168098285d558643a6d9c4283c2d99f0e33d926309155fd" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+edit
 </p>
-<br />
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+edit
 </p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+</p>
+<p>
+edit
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+</p>
+<p>
+edit
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%"/>
+</p>
+<p>
+edit
+</p>
+
 <br />
