@@ -4,7 +4,7 @@
 
 <h1>osTicket - Prerequisites and Installation</h1>
 In this tutorial I will demonstrate the installation process of the open-source help desk ticketing system, osTicket.
-During this tutorial I will be using specific prerequisite software versions listed below. Latest versions of the software can be used and is usually recommended.
+At the time of this demonstration I will have used specific software versions listed below. Latest versions of the software can be used and is normally recommended.
 
 <h2>Video Demonstration</h2>
 
@@ -50,7 +50,7 @@ Let's start with the first two prerequisites, "PHP Manager for IIS" and "Rewrite
 Once that is complete, we will create a new directory in the C drive called PFP (C:\PFP). Open File Explorer, navigate to the C drive. Right-click inside the window, go down to "New" and select "Folder". Name that folder "PHP".
 </p>
 <p>
-<img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462612343644098703/image.png?ex=696ed364&is=696d81e4&hm=ea2f553327adf5a93168098285d558643a6d9c4283c2d99f0e33d926309155fd" height="80%" width="80%"/>
+<img src="https://cdn.discordapp.com/attachments/1390632590247067770/1462612343644098703/image.png?ex=696ed364&is=696d81e4&hm=ea2f553327adf5a93168098285d558643a6d9c4283c2d99f0e33d926309155fd" height="50%" width="50%"/>
 </p>
 <p>
 edit
